@@ -721,7 +721,7 @@ sessionStorage.getItem("foo"); //returns "bar"</code></pre><p>Since the current 
                     Donations to freeCodeCamp go toward our education initiatives and help pay for servers, services, and staff.
                 </p>
                 <p class="footer-donation">
-                    You can <a id='footer-donation' class='inline' rel='noopener noreferrer' target='_blank'>make a tax-deductible donation here</a>.
+                    You can <a id='footer-donation' rel='noopener noreferrer' class='inline' target='_blank'>make a tax-deductible donation here</a>.
                 </p>
             </div>
             <div class="trending-guides">
